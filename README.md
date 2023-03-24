@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emiliowehb
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript + ReactJS
+- 🌱 I’m currently working with Vue.js & Laravel
 - 📫 How to reach me wehbemile@hotmail.com
 
 <!---
